@@ -1,0 +1,240 @@
+/*for-xl-screen*/
+
+@media screen and (min-width: 1200px) and (max-width: 1399px) {
+
+/* footer-item */
+
+.subscrive-button input {
+	width: 70%;
+	
+}
+
+/* footer-item */
+
+}
+
+
+/*for-xl-screen*/
+
+/*for-lg-screen*/
+
+@media screen and (min-width: 991px) and (max-width: 1199px) {
+
+/* article */
+
+.article-item-content h6 br {
+	display: none;
+}
+
+.article-item-content h6 {
+	font-size: 13px;
+}
+
+#five-img {
+	margin: 35px auto 0;		
+}
+
+#love-img {
+	margin: 32px auto 0;		
+}
+
+/* article */
+
+/* foooter-item */
+
+.subscrive-button input {
+	width: 66%;
+	
+}
+
+/* foooter-item */
+
+
+}
+
+/*for-lg-screen-end*/
+
+/*for-tablet-screen-start*/
+
+@media screen and (min-width: 767px) and (max-width: 991px) {
+
+/* header */
+
+.hero-content h1 br {
+	display: none;
+}
+
+.hero-content h1 { 
+   margin: 113px 0 0 0;
+}
+
+.navigation-bar ul li a {
+   font-size: 13px;
+   padding: 5px 12px 5px 12px;
+}
+
+/* header */
+
+/* wellcome */
+
+.wellcome-content ul li a {
+   padding: 10px 5px;
+}
+
+/* wellcome*/
+
+/* article*/
+
+.article-title p br {
+	display: none;
+}
+
+/* article*/
+ 
+}
+
+/*for-tablet-screen-end*/
+
+/*for-mobil-screen-start*/
+
+@media screen and (max-width: 767px) {
+
+/* header */
+
+.header-area {
+   background-position: 80% 30%;
+   padding: 25px 0 35px 0;
+}
+
+.navigation-bar ul {
+	display: none;
+}
+
+.mobil-bar i {
+	display: block;
+}
+
+.hero-content h1 {
+   font-size: 25px;
+   margin: 155px 0 0 0;
+}
+
+.hero-content h1 br {
+	display: none;
+}
+
+.hero-content p::after {
+	content: none;
+}
+
+/* header */
+
+/* wellcome */
+
+.wellcome-title h2 {
+   font-size: 24px;
+   margin: 878px 0 0 0;
+}
+
+.wellcome-content ul {
+   margin: 38px 0 0 0;
+
+}
+
+.wellcome-content ul li {
+   border: 1px solid #C2C4C2;
+}
+
+.wellcome-content ul li a {
+   font-size: 14px;
+   padding: 10px 14px;
+}
+
+.benazir-life-content h2 {
+   font-size: 26px;
+   margin: 380px 0 0 0;
+}
+
+.benazir-life-content span {
+   margin: 15px 0 0 0;
+}
+
+.benazir-life-content p {
+   font-size: 14px;
+   margin: 20px 0 0 0;
+
+}
+
+.benazir-life-button a {
+   font-size: 14px;
+   padding: 14px 26px;
+   margin: 24px 0 0 0;
+}
+
+.benazir-images img {
+   padding: 10px;
+   margin: 57px 0 0 0;
+ 
+}
+
+/* wellcome */
+
+/* books */
+
+.books-item-left h2 {
+   padding: 50px 0 0 0;
+}
+
+.books-item-right img {
+	width: 100%;
+}
+
+/*books*/
+
+/*article*/
+
+.article-area {
+   padding: 0 0 30px 0;
+}
+
+.article-title h2 {
+   font-size: 25px;
+   padding: 40px 0 0 0;
+}
+
+.article-title p br {
+	display: none;
+}
+
+.article-item-content h6 br {
+	display: none;
+}
+
+.article-item-content h6 {
+	font-size: 15px;
+}
+
+/*article*/
+
+/* footer-item */
+
+.footer-item h2 {
+	padding: 46px 0 0 0;
+}
+
+.subscrive-button input {
+	width: 66%;
+	
+}
+
+.subscrive-button {
+	margin: 28px 0 0 0;
+
+}
+
+/* footer-item */
+	
+}
+
+/*mobil-area-screen*/
+         
